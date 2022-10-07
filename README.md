@@ -33,6 +33,4 @@ To help determine whether a bike-sharing program in Des Moines is worth the inve
   - Customers who are not subscribers primarily rent bikes on Saturday and Sunday.
 <br><br>
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
-[link to dashboard](https://public.tableau.com/views/NYC_CitiBike_Challenge_16650952061860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link "link to dashboard")
+[Click here to view the tableau story.](https://public.tableau.com/views/NYC_CitiBike_Challenge_16650952061860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link "link to tableau story")
