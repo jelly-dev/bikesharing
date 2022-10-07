@@ -19,16 +19,16 @@ To help determine whether a bike-sharing program in Des Moines is worth the inve
   - More bikes were rented to male customers than female or undeclared customers.
 <br><br>
 ### Trips by Weekday per Hour
-![Trips by Weekday per Hour](/images/tripsGenderWeekdayHour.png "Trips by Weekday per Hour")
+![Trips by Weekday per Hour](/images/tripsWeekdayHour.png "Trips by Weekday per Hour")
   - The peak times for rentals on Monday-Friday are 7-11am and 4-8pm.
   - The majority of rentals on Saturday and Sunday take place between 9am and 6pm.
 <br><br>
 ### Trips by Gender (Weekday per Hour)
-![Trips by Gender (Weekday per Hour)](/images/tripsUserGenderWeekday.png "Trips by Gender (Weekday per Hour)")
+![Trips by Gender (Weekday per Hour)](/images/tripsGenderWeekdayHour.png "Trips by Gender (Weekday per Hour)")
   - The heatmap confirms that while the patterns in ride start and stop times remain the same across genders, the majority of customers are male.
 <br><br>
 ### User Trips by Gender by Weekday
-![User Trips by Gender by Weekday](/images/tripsWeekdayHour.png "User Trips by Gender by Weekday")
+![User Trips by Gender by Weekday](/images/tripsUserGenderWeekday.png "User Trips by Gender by Weekday")
   - Thursday is the most popular day for subscribers to rent a bike.
   - Customers who are not subscribers primarily rent bikes on Saturday and Sunday.
 <br><br>
